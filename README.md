@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nikzad-avasam/downloader/refs/heads/main/dl-icon.webp" width="100" alt="wide-2" />
+  <img src="https://raw.githubusercontent.com/nikzad-avasam/downloader/refs/heads/main/dl-icon.gif" width="400" alt="wide-2" />
 </div>
 
  
@@ -54,6 +54,9 @@
 
 
 ---
+
+> راه های تکراری نتایج جدید رقم نمیزند. برای نتیجه ای جدید باید راهی جدید امتحان کرد
+> 
 برای دریافت آموزش های بیشتر در پیام رسان بله عضو کانال ما باشید :‌
 # 🔗 https://ble.ir/avasam_edu
 
